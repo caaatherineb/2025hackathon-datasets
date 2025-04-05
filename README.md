@@ -15,7 +15,10 @@ You're in the right place.
 
 ## 🛠️ How to Use
 
-Use these datasets to explore campus trends, ask meaningful questions, or just have fun experimenting with data.
+These datasets are yours to explore — dig into campus trends, ask big questions, or just have fun experimenting with data!
+
+- Smaller files can be viewed directly on GitHub.
+- Larger files will need to be downloaded to your device. (Heads up: check the file sizes before downloading — especially if your laptop is running low on storage or battery!)
 
 We can’t wait to see what you build.
 
